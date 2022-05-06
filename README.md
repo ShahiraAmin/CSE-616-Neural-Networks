@@ -1,5 +1,5 @@
 ﻿**Conclusion and Findings:**
-I used three different convolutional neural network models for classification of traffic signs and compared their performance. I used TensorFlow to train and test the network using the German Traffic Sign Recognition Benchmark (GTSRB) dataset. The third CNN model achieved the highest test accuracy, followed by the second CNN, and then the third CNN which achieved the lowest test accuracy. The first CNN had the longest training time per parameter followed by the third CNN, and then the first CNN, which had the longest training time per parameter.
+I used three different convolutional neural network models for classification of traffic signs and compared their performance. I used TensorFlow to train and test the network using the German Traffic Sign Recognition Benchmark (GTSRB) dataset. The third CNN model achieved the highest test accuracy, followed by the second CNN, and then the third CNN which achieved the lowest test accuracy. The first CNN had the shortest training time per parameter followed by the third CNN, and then the first CNN, which had the longest training time per parameter.
 
 **Repo File Structure:**
 I wrote my code using Jupyter Notebook, so all the files in the repository are .ipynb. The repo file structure is as follows:
